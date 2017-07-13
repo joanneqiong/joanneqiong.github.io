@@ -15,7 +15,7 @@ window.onload = function () {
         if (board[1][0] == board[1][1] && board[1][0] == board[1][2] ) {
             alert("Player " + board[1][0] + " wins!");
         }
-        if (board[2][0] == board[2][1] && board[2][0] == board[0][2] ) {
+        if (board[2][0] == board[2][1] && board[2][0] == board[2][2] ) {
             alert("Player " + board[2][0] + " wins!");
         }
     }
