@@ -1,0 +1,224 @@
+ /* make this an external style sheet */
+ 
+ body {
+     background-color: grey;
+}
+ /* block id css for moving the tile down */
+ 
+ #block {
+     display: block;
+ }
+ 
+ #outer_1 {
+     display: inline-block;
+     background-color: green;
+     margin: 0px;
+     margin-left: 50px;
+     padding: 20px;
+     width: 240px;
+     height: 220px;
+     border-right: 20px solid black;
+     border-bottom: 20px solid black;
+ }
+ 
+ #inner_1 {
+     background-color: red;
+     text-align: center;
+     margin: 70px;
+     padding: 20px;
+     box-shadow: 10px 10px 5px #006400;
+ }
+ 
+ #outer_2 {
+     display: inline-block;
+     background-color: green;
+     margin: 0px;
+     padding: 20px;
+     width: 220px;
+     height: 220px;
+     border-left: 20px solid black;
+     border-bottom: 20px solid black;
+     border-right: 20px solid black;
+ }
+ 
+ #inner_2 {
+     background-color: red;
+     text-align: center;
+     margin: 70px;
+     padding: 20px;
+     box-shadow: 10px 10px 5px #006400;
+ }
+ 
+ #outer_3 {
+     display: inline-block;
+     background-color: green;
+     margin: 0px;
+     padding: 20px;
+     width: 240px;
+     height: 220px;
+     border-left: 20px solid black;
+     border-bottom: 20px solid black;
+     box-shadow: 10px 10px 5px #888888;
+ }
+ 
+ #inner_3 {
+     background-color: red;
+     text-align: center;
+     margin: 70px;
+     padding: 20px;
+     box-shadow: 10px 10px 5px #006400;
+ }
+ 
+ #outer_4 {
+     display: inline-block;
+     background-color: green;
+     margin: 0px;
+     margin-left: 50px;
+     padding: 20px;
+     width: 240px;
+     height: 220px;
+     border-right: 20px solid black;
+     border-bottom: 20px solid black;
+     border-top: 20px solid black;
+ }
+ 
+ #inner_4 {
+     background-color: red;
+     text-align: center;
+     margin: 70px;
+     padding: 20px;
+     box-shadow: 10px 10px 5px #006400;
+ }
+ 
+ #outer_5 {
+     display: inline-block;
+     background-color: green;
+     margin: 0px;
+     padding: 20px;
+     width: 220px;
+     height: 220px;
+     border-left: 20px solid black;
+     border-bottom: 20px solid black;
+     border-top: 20px solid black;
+     border-right: 20px solid black;
+ }
+ 
+ #inner_5 {
+     background-color: red;
+     text-align: center;
+     margin: 70px;
+     padding: 20px;
+     box-shadow: 10px 10px 5px #006400;
+ }
+ 
+ #outer_6 {
+     display: inline-block;
+     background-color: green;
+     margin: 0px;
+     padding: 20px;
+     width: 240px;
+     height: 220px;
+     border-left: 20px solid black;
+     border-top: 20px solid black;
+     border-bottom: 20px solid black;
+     box-shadow: 10px 10px 5px #888888;
+ }
+ 
+ #inner_6 {
+     background-color: red;
+     text-align: center;
+     margin: 70px;
+     padding: 20px;
+     box-shadow: 10px 10px 5px #006400;
+ }
+ 
+ #outer_7 {
+     display: inline-block;
+     background-color: green;
+     margin: 0px;
+     margin-left: 50px;
+     padding: 20px;
+     width: 240px;
+     height: 220px;
+     border-right: 20px solid black;
+     border-top: 20px solid black;
+     box-shadow: 10px 10px 5px #888888;
+ }
+ 
+ #inner_7 {
+     background-color: red;
+     text-align: center;
+     margin: 70px;
+     padding: 20px;
+     box-shadow: 10px 10px 5px #006400;
+ }
+ 
+ #outer_8 {
+     display: inline-block;
+     background-color: green;
+     margin: 0px;
+     padding: 20px;
+     width: 220px;
+     height: 220px;
+     border-left: 20px solid black;
+     border-top: 20px solid black;
+     border-right: 20px solid black;
+     box-shadow: 10px 10px 5px #888888;
+ }
+ 
+ #inner_8 {
+     background-color: red;
+     text-align: center;
+     margin: 70px;
+     padding: 20px;
+     box-shadow: 10px 10px 5px #006400;
+ }
+ 
+ #outer_9 {
+     display: inline-block;
+     background-color: green;
+     margin: 0px;
+     padding: 20px;
+     width: 240px;
+     height: 220px;
+     border-left: 20px solid black;
+     border-top: 20px solid black;
+     box-shadow: 10px 10px 5px #888888;
+ }
+ 
+ #inner_9 {
+     background-color: red;
+     text-align: center;
+     margin: 70px;
+     padding: 20px;
+     box-shadow: 10px 10px 5px #006400;
+ }
+ 
+ #ruler_1 {
+     display: inline-block;
+     margin: 0px;
+     margin-left: 50px;
+     padding: 0px;
+     width: 300px;
+     height: 10px;
+     background-color: yellow;
+ }
+ 
+ #ruler_2 {
+     display: inline-block;
+     margin: 0px;
+     padding: 0px;
+     width: 300px;
+     height: 10px;
+     background-color: orange;
+ }
+ 
+ #ruler_3 {
+     display: inline-block;
+     margin: 0px;
+     padding: 0px;
+     width: 300px;
+     height: 10px;
+     background-color: red;
+ }
+ /* make ruler2 and ruler 3 different colors to measure */
